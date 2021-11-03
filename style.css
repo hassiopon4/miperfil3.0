@@ -1,0 +1,17 @@
+body{
+    
+    text-align: center;
+    background-color: rgb(236, 184, 233)
+   
+       
+}
+
+
+.titulo{
+    color: purple;
+    text-decoration-color: blue;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 30;
+   
+}
